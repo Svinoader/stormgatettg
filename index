@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Штормовые Врата</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="logo">
+            <h1>Штормовые Врата</h1>
+            <p>Магия, приключения и волшебство</p>
+        </div>
+        <nav class="nav">
+            <a href="#home">Главная</a>
+            <a href="#calculator">Калькулятор</a>
+            <a href="#about">О проекте</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <section id="home" class="main-section">
+        <h2>Добро пожаловать в мир Штормовых Врат</h2>
+        <p>Погрузитесь в увлекательные приключения в мире магии и заклинаний.</p>
+    </section>
+
+    <section id="calculator" class="main-section">
+        <h2>Калькулятор Стоимости Заклинаний</h2>
+        <p>Используйте наш калькулятор для расчёта стоимости заклинаний и магических эффектов.</p>
+        <a href="https://your-username.github.io/my-website/calculator" class="button">Перейти к калькулятору</a>
+    </section>
+
+    <section id="about" class="main-section">
+        <h2>О проекте</h2>
+        <p>Штормовые Врата — это увлекательная ролевая игра, где каждый может испытать свои магические способности.</p>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 Штормовые Врата. Все права защищены.</p>
+        </div>
+    </footer>
+</body>
+</html>
